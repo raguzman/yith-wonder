@@ -1,0 +1,9 @@
+{
+  "name": "yithemes/yith-wonder",
+  "type": "wordpress-theme",
+  "version": "2.0.0",
+  "description": "YITH Wonder Theme",
+  "require": {
+    "composer/installers": "^2.2"
+  }
+}
